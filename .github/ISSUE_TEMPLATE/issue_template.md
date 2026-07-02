@@ -7,13 +7,26 @@ assignees: ''
 
 ---
 
+**Description:**  
+This is a placeholder issue. Replace this text with a clear description of what needs to be built or fixed.
+
 **Goal:**  
-Explain what should be achieved when this issue is completed.
+Define what success looks like when this issue is completed.
+
+**User Story:**  
+As a user, I want ..., so that ...
+
+**Acceptance Criteria:**
+- [ ] Feature works as expected
+- [ ] No console errors
+- [ ] API is connected (if applicable)
+- [ ] UI is responsive
 
 **Tasks:**
-- Task 1
-- Task 2
-- Task 3
+- [ ] Backend work (if needed)
+- [ ] Frontend work (if needed)
+- [ ] Testing
+- [ ] Final polish
 
 **Notes:**
-- Add any important details here
+- Add any extra technical details here
